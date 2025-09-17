@@ -27,8 +27,7 @@ Dashboard čerpá dáta z **Excel súboru**, ktorý obsahuje nasledujúce inform
 
 ## 📸 Ukážka dashboardu
 
-<img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/7ef78f50-9ae3-4373-83c9-e3f814dd25a6" />
-
+<img width="1441" height="808" alt="image" src="https://github.com/user-attachments/assets/9c465187-6bc8-4e38-a4eb-a5d5bbd7889f" />
 
 ---
 
