@@ -67,4 +67,4 @@ Dashboard umožňuje:
 
 ## 📌 Autor
 Vytvorené ako interný projekt pre tím projektových manažérov s cieľom zefektívniť sledovanie prototypov.  
-Autor: **Tomas Mesáros**
+Autor: **Tomáš Mesároš**
